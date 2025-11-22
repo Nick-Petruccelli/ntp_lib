@@ -1,5 +1,5 @@
 #define NTP_LIB
-#include "ntp_lib.h"
+#include "../ntp_types.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include "string.h"
