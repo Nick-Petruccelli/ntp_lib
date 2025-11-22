@@ -1,0 +1,9 @@
+Files:
+  - Get files in dir
+  - Copy files
+  - Copy dir
+  - Get file size
+
+Strings:
+  - strcmp
+  - strcpy
